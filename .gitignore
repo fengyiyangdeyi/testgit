@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+#*.txt
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
